@@ -1,5 +1,5 @@
 # Arduino-Smart-Window-Curtain
-to let you feel safer when leaving your home, I introduce to you this Smart Window, the design is very simple and effective. Once you have installed smart windows in your home, night time and bad wether will no longer be a concern, you can modify all of the settings based on wether conditions or sun set and sun rise hours. Below is a default configuration:
+To let you feel safer when leaving your home, I introduce to you this Smart Window, the design is very simple and effective. Once you have installed smart windows in your home, night time and bad wether will no longer be a concern, you can modify all of the settings based on wether conditions or sun set and sun rise hours. Below is a default configuration:
   
 ```
 If the sky is clear (sunrise, morning-afternoon):
@@ -17,3 +17,5 @@ If the sky is dark (sunset, night time):
 (A small presentation and demo will be shown below, please click on the image)
 
 <a href="https://www.youtube.com/watch?v=y5fdJ3oVPD4&t=2s"><img src="thumbnail.png"></a>
+  
+*Note: This is one of my small projects in University, the unit is SIT123 - Data Capture Technologies*
