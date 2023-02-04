@@ -8,7 +8,7 @@ If the sky is clear (sunrise, morning-afternoon):
     	- Roll up the curtain
     If it is raining:
     	- Close the window
-    	= Curtain remain unchanged
+    	- Curtain remain unchanged
 If the sky is dark (sunset, night time):
 	- Close the window
 	- Roll down curtain
@@ -16,4 +16,4 @@ If the sky is dark (sunset, night time):
 
 (A small presentation and demo will be shown below, please click on the image)
 
-<a href="https://www.youtube.com/watch?v=y5fdJ3oVPD4&t=2s"></a>
+<a href="https://www.youtube.com/watch?v=y5fdJ3oVPD4&t=2s"><img src="thumbnail.png"></a>
