@@ -18,4 +18,4 @@ If the sky is dark (sunset, night time):
 
 <a href="https://www.youtube.com/watch?v=y5fdJ3oVPD4&t=2s"><img src="thumbnail.png"></a>
   
-*Note: This is one of my small projects in University, the unit is SIT123 - Data Capture Technologies*
+*Ps: This is one of my small projects in Deakin University, the unit is SIT123 - Data Capture Technologies*
